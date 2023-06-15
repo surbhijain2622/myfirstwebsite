@@ -64,6 +64,7 @@ h1{
 }
 .ski{
   float: left;
+  //float propety tell that this element is not the part of section and will float on specified position and all the text will wrap around this element.
 }
 .skil{
   float: right;
